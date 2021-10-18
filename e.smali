@@ -44,7 +44,7 @@
 
     new-instance p2, Lcom/kartuzov/mafiaonline/j;
 
-    const-string v0, "http://Clone.jelastic.regruhosting.ru"
+    const-string v0, "https://alvinhacker1234.github.io/MafiaOnline/"
 
     invoke-static {v0}, Ljava/net/URI;->create(Ljava/lang/String;)Ljava/net/URI;
 
